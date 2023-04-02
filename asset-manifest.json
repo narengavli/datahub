@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/datahub/static/css/main.e6c13ad2.css",
+    "main.js": "/datahub/static/js/main.9ce8b9dc.js",
+    "index.html": "/datahub/index.html",
+    "main.e6c13ad2.css.map": "/datahub/static/css/main.e6c13ad2.css.map",
+    "main.9ce8b9dc.js.map": "/datahub/static/js/main.9ce8b9dc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.9ce8b9dc.js"
+  ]
+}
